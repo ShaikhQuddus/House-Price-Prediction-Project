@@ -1,8 +1,10 @@
 # House-Price-Prediction-Project
 Overview
+
 This repository contains the code, dataset, and final predicted sales prices for a house prediction project. The aim of this project is to predict house prices using machine learning techniques.
 
 Steps
+
 Read Data: The dataset was read into the project, and each column was thoroughly understood to comprehend the features available.
 
 EDA (Exploratory Data Analysis): Various statistical and visualization techniques were employed to gain insights into the dataset, understand the distribution of features, and identify patterns and correlations.
@@ -24,6 +26,7 @@ Prediction on Test Data: The final trained models were used to make predictions 
 CSV Submission: A CSV file was generated containing the predicted sales prices of houses, formatted similarly to a sample submission
 
 Files
+
 Code: The code for the project is provided in the PDF file named (House Price Prediction Project.pdf).
 
 Dataset: The dataset used for the project is available in the repository.(training_set and testing_set).csv
